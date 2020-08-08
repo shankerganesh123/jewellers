@@ -966,7 +966,7 @@ footer a:hover {
 }
 
 footer.dark {
-    background: #212121;
+    background: #3c3d47;
     color: #fff;
 }
 
@@ -2709,10 +2709,9 @@ h2.deco-text .xl {
 }
 
 h3 {
-    font-size: 25px;
+    font-size: 21px;
     margin-top: 0;
     margin-bottom: 15px;
-    color: #e73c37;
 }
 
 .subtitle.s2 {

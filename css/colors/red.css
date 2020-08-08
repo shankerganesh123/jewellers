@@ -77,7 +77,7 @@ h1.very-big span.underline,
 h2 span.underline,
 h1.big span.underline,
 .feature-box.style-2 i {
-    background:linear-gradient(to right, #eb3349, #f45c43);
+    background-color: #d9adad;
 }
 
 #mainmenu li:hover>ul,
@@ -141,7 +141,7 @@ h2.hs1 span,
 .pricing-s1 .bottom ul li i,
 h2 .uptitle,
 i.id-color {
-    color: #eb3349;
+    color: #d9adad;
 }
 
 .,
@@ -187,5 +187,5 @@ a.btn-line.hover,
 }
 
 .preloader1 {
-    border-top-color: #eb3349;
+    border-top-color: ;
 }
